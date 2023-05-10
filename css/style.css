@@ -74,10 +74,9 @@ h2{
     justify-content: center;
 }
 
-#pie{
-    background-color: slateblue;
-    max-height: 20%;
-   width: 100%;
+.fondo-footer{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(104,26,177,1) 35%, rgba(218,0,241,1) 100%);
 }
 
 h5{
@@ -104,4 +103,7 @@ h5{
 }
 #evita{
     font-size: 1.5vw;
+}
+.btn-primary{
+   background-color: rgba(104,26,177,1);
 }
