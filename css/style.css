@@ -7,6 +7,10 @@ body{
     padding: 2%;
     margin: 2%;
 }
+#nav{
+    display: flex;
+    justify-content: end;
+}
 h1{
     font-family: 'Anton', sans-serif;
     text-decoration: underline;
