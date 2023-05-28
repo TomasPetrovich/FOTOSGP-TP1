@@ -114,3 +114,12 @@ h5{
 #pie{
     font-size: 1vw;
 }
+.item{
+    height: 200px;
+    width: 200px;
+    border: violet solid;
+    text-align: center;
+    color: aliceblue;
+    margin: 2%;
+    padding: 2%;
+}
